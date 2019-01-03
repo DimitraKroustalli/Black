@@ -2,3 +2,7 @@ packing list
 ------------
 -swimming suit
 -sunglasses
+
+Fishing list
+------------
+-fishing bat
