@@ -1,3 +1,4 @@
 packing list
 ------------
 -swimming suit
+-sunglasses
