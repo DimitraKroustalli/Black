@@ -2,6 +2,7 @@ packing list
 ------------
 -swimming suit
 -sunglasses
+-camera
 
 Fishing list
 ------------
